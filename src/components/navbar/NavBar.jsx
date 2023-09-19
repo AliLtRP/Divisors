@@ -17,20 +17,13 @@ function NavBar() {
                 <div className='list'>
                     <ul>
                         <li>
-                            <a href="">
-                                GitHub
-                            </a>
-                        </li>
-                        <li>
-                            <a href="">
-                                Contact
-                            </a>
+                            <a href="https://github.com/AliLtRP">GitHub</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </div>
-    )
+    );
 }
 
 export default NavBar;
